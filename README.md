@@ -4,7 +4,7 @@ In this project, I led a 3-person team to analyze and visualize music trends fro
 My responsibilities included:
 
 Team Management: Effectively managed workflow and delegated tasks to ensure timely delivery of our project.
-Data Visualization: Utilized Python on Google Colab to create correlation plots and heatmaps, enabling us to visually explore relationships within the music trend data.
+Data Visualization: Utilized Python on Google Colab to create correlation plots and heatmaps, enabling us to visually explore relationships within the musical trends dataset.
 Innovative Analysis: Integrated a Kaggle dataset on current music trends with the competition’s 1980s music data, generating comparative insights that informed actionable recommendations.
 
 
