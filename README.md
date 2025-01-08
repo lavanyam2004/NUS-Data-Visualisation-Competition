@@ -1,8 +1,8 @@
-# NUS Data Decades Data Visualization Competition
+# NUS Data Decades Data Visualization Competition 2nd Runner-Up
 
 ## Overview
 
-This project was undertaken as part of the NUS Data Decades Data Visualization Competition, where our team was awarded **2nd Runner Up** for our innovative analysis and visualization of music trends from the 1980s. Working under a tight 2-hour deadline, we leveraged data-driven storytelling to uncover insights into the evolution of music over the decades.
+This project was undertaken as part of the NUS Data Decades Data Visualization Competition organised by NUS Data Science and Statistics Society, where our team was awarded **2nd Runner Up**, among over 40 other teams, for our innovative analysis and visualization of music trends from the 1980s. Working under a tight 2-hour deadline, we leveraged data-driven storytelling to uncover insights into the evolution of music over the decades.
 
 ## Project Objectives
 
